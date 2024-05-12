@@ -1,0 +1,2 @@
+// added todos array in the user table and wrote the relation between them by specifying the user in the todo table >>
+the line user that has the references code most probably doent do anything in the table except making relation>>
